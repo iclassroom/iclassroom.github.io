@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/krunurak-sar/precache-manifest.78b07ebc7c4fec975640c63d368b3a36.js"
+  "/krunurak-sar/precache-manifest.f5d63ee454cff1c95de91c9ec4fb19e0.js"
 );
 
 self.addEventListener('message', (event) => {

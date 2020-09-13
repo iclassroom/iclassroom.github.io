@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efd153adea89aa5b5e4acb1e95d874b8",
+    "revision": "a93c97ac492ec947456686d98cce1f14",
     "url": "/krunurak-sar/index.html"
   },
   {
-    "revision": "680b933281bd077b7dfd",
+    "revision": "b7da56588885fd37f212",
     "url": "/krunurak-sar/static/css/main.ccd41c3f.chunk.css"
   },
   {
-    "revision": "9c0fc5b06fbb005f9ffd",
-    "url": "/krunurak-sar/static/js/2.2882f9e8.chunk.js"
+    "revision": "da04bc960391959ede73",
+    "url": "/krunurak-sar/static/js/2.1ce4bf0f.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/krunurak-sar/static/js/2.2882f9e8.chunk.js.LICENSE.txt"
+    "url": "/krunurak-sar/static/js/2.1ce4bf0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "680b933281bd077b7dfd",
-    "url": "/krunurak-sar/static/js/main.ee136d82.chunk.js"
+    "revision": "b7da56588885fd37f212",
+    "url": "/krunurak-sar/static/js/main.e42b6582.chunk.js"
   },
   {
     "revision": "7296f7d6ca3a7f3c1f99",
