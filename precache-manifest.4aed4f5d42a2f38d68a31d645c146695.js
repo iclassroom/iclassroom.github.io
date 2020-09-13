@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0739b4f9c8d365d128ab2764a3f9ad00",
+    "revision": "09624abf154b3fe8a8bacf15a02c03e4",
     "url": "/krunurak-sar/index.html"
   },
   {
-    "revision": "f6c7c9e6022721ee4285",
+    "revision": "680b933281bd077b7dfd",
     "url": "/krunurak-sar/static/css/main.ccd41c3f.chunk.css"
   },
   {
-    "revision": "4d90d03753df091974e0",
-    "url": "/krunurak-sar/static/js/2.3e2d4aa4.chunk.js"
+    "revision": "9c0fc5b06fbb005f9ffd",
+    "url": "/krunurak-sar/static/js/2.2882f9e8.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/krunurak-sar/static/js/2.3e2d4aa4.chunk.js.LICENSE.txt"
+    "url": "/krunurak-sar/static/js/2.2882f9e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6c7c9e6022721ee4285",
-    "url": "/krunurak-sar/static/js/main.cc21099c.chunk.js"
+    "revision": "680b933281bd077b7dfd",
+    "url": "/krunurak-sar/static/js/main.ee136d82.chunk.js"
   },
   {
-    "revision": "b056e2dc58ae8b37a1a4",
-    "url": "/krunurak-sar/static/js/runtime-main.8eeb5537.js"
+    "revision": "7296f7d6ca3a7f3c1f99",
+    "url": "/krunurak-sar/static/js/runtime-main.3bec930b.js"
   },
   {
     "revision": "99f2818fb2b47ed862973d858eb3d1e8",
