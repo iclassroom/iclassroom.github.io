@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09624abf154b3fe8a8bacf15a02c03e4",
+    "revision": "efd153adea89aa5b5e4acb1e95d874b8",
     "url": "/krunurak-sar/index.html"
   },
   {
